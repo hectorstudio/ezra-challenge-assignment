@@ -1,5 +1,5 @@
 # EZRA test project
-## Jeffrey Xue
+## Hectorstudio
 
 ## Features
 
